@@ -1,0 +1,107 @@
+body {
+    background-color: #666;
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.navbar {
+    background-color: #232930eb !important;
+
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.navbar-brand {
+    border-right: 2px solid gray;
+    padding-right: 25px;
+}
+
+.btn-search {
+    margin-left: 10px;
+}
+
+.carousel-inner img {
+    height: 600px;
+}
+
+.carousel-inner .carousel-caption {
+
+    background-color: rgba(200, 200, 200, .3);
+    border-radius: 8px;
+}
+
+code {
+    font-size: 140% !important;
+    margin-left: -35px;
+
+}
+
+.fix-image1 {
+    height: 200px;
+    background-image: url("../images/1096890.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.good-basic {
+
+    background-color: rgb(113, 111, 111);
+    border-radius: 7px;
+    padding: 60px;
+}
+
+.card-good {
+    margin: 15px;
+}
+
+.fix-image2 {
+    height: 200px;
+    background-image: url("../images/33233.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.card-thank {
+    margin: 15px;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-twitter {
+    color:#1DA1F2;
+}
+.titel-in-footer{
+    color:rgb(33, 139, 11);
+}
+.fa-facebook {
+    color:#4267B2;
+    font-size: 125%;
+    border: 2px solid rgb(18, 18, 20);
+    border-radius: 50px;
+}
+
+.fa-instagram {
+    color: rgb(138, 0, 0);
+}
+
+.card-join {
+    margin: 15px;
+}
+
+.twitter {
+    font-size: 120%;
+}
